@@ -1,0 +1,26 @@
+// app global css in SCSS form
+.bottom-menu {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.drawer-button-container {
+  padding: 4px;
+}
+
+.drawer-button {
+  background: linear-gradient(125.54deg, #613973 -0.39%, #BB46E4 100%);
+  color: white;
+  font-weight: bold;
+}
+
+.menu-button {
+  background: linear-gradient(125.54deg, #613973 -0.39%, #BB46E4 100%);
+}
+
+.top-navigation {
+  height: 100px;
+}
